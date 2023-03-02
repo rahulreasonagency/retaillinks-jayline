@@ -1,0 +1,8 @@
+analytics.track("Get Directions Link Click", {
+  element_id: 'getDirections',
+  category: 'map',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});

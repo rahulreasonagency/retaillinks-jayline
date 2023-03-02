@@ -1,0 +1,8 @@
+analytics.track("Registration Form Link Click", {
+  element_id: 'registrationFormClick',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});

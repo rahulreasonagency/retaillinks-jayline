@@ -1,0 +1,8 @@
+analytics.track("Buy Spare Parts Link Click", {
+  element_id: 'shopSparePartsClick',
+  category: 'shop',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});

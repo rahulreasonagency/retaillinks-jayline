@@ -1,0 +1,8 @@
+analytics.track("Where To Buy Link Click", {
+  element_id: 'whereToBuy',
+  category: 'dealer',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});

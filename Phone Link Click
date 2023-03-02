@@ -1,0 +1,8 @@
+analytics.track("Phone Link Click", {
+  element_id: 'phoneClick',
+  category: 'call',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});

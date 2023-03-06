@@ -3,6 +3,5 @@ analytics.track("Where To Buy Link Click", {
   category: 'dealer',
   label: <<click text>>,
   type: 'cta',
-  interaction: 'click',
-  version: <<1>>    // Dev to update, if required.
+  interaction: 'click'
 });

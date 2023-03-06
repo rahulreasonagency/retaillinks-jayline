@@ -3,6 +3,5 @@ analytics.track("Email Link Click", {
   category: 'email',
   label: <<click text>>,
   type: 'cta',
-  interaction: 'click',
-  version: <<1>>    // Dev to update, if required.
+  interaction: 'click'
 });

@@ -3,6 +3,5 @@ analytics.track("Buy Spare Parts Link Click", {
   category: 'shop',
   label: <<click text>>,
   type: 'cta',
-  interaction: 'click',
-  version: <<1>>    // Dev to update, if required.
+  interaction: 'click'
 });

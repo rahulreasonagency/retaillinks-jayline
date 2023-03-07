@@ -1,5 +1,5 @@
 analytics.track("Get Directions Link Click", {
-  element_id: 'getDirections',
+  element_id: 'getDirectionsClick',
   category: 'map',
   label: <<click text>>,
   type: 'cta',

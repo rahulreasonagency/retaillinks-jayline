@@ -1,0 +1,7 @@
+analytics.track("Email Link Click", {
+  element_id: 'viewFiresClick',
+  category: 'wood fire',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click'
+});

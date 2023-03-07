@@ -1,0 +1,7 @@
+analytics.track("View Installation Instructions Link Click", {
+  element_id: 'viewInstallationClick',
+  category: 'document',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click'
+});

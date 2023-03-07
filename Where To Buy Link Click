@@ -1,5 +1,5 @@
 analytics.track("Where To Buy Link Click", {
-  element_id: 'whereToBuy',
+  element_id: 'whereToBuyClick',
   category: 'dealer',
   label: <<click text>>,
   type: 'cta',
